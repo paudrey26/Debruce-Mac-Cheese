@@ -4,7 +4,7 @@ Welcome to **KU Mac & Cheese Craze**, a fun and interactive game created for the
 
 ## 🎮 Play the Game
 Click the link below to start serving up some delicious mac and cheese:
-[Play KU Mac & Cheese Craze](https://apps.powerapps.com/play/e/default-3c176536-afe6-43f5-b966-36feabbe3c1a/a/49222c54-c6b3-4046-8cb9-a5c289f9206d?tenantId=3c176536-afe6-43f5-b966-36feabbe3c1a&hint=b7b45955-8422-4b23-b78e-553b3fe811ac&source=sharebutton&sourcetime=1740978434503)
+[Play KU Mac & Cheese Craze](https://apps.powerapps.com/play/e/default-3c176536-afe6-43f5-b966-36feabbe3c1a/a/49222c54-c6b3-4046-8cb9-a5c289f9206d?tenantId=3c176536-afe6-43f5-b966-36feabbe3c1a&hint=b7b45955-8422-4b23-b78e-553b3fe811ac&sourcetime=1742868150955)
 
 ## 📌 About the Project
 - **Theme:** Anything KU
